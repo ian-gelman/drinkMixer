@@ -1,0 +1,14 @@
+Simple Syrup
+Grenadine
+Lime Cordial
+Orange Juice
+Apple Juice
+Cranberry Juice
+Grapefruit Juice
+Lemon Juice
+Lime Juice
+Coca Cola
+Ginger Ale
+Sprite
+Tonic Water
+Soda Water
